@@ -1032,7 +1032,10 @@ nav img {
     justify-content: space-between;
     overflow: hidden;
 }
-
+#certifications .cert a {
+    text-decoration: none;
+    color: var(--black);
+}
 
 #certifications .cert h3 {
     font-family: Fjalla one, sans-serif;
